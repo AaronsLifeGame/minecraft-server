@@ -21,7 +21,7 @@ Within a particular ecosystem, there may be a common way of installing things, s
 Download [server.jar](https://launcher.mojang.com/v1/objects/125e5adf40c659fd3bce3e66e67a16bb49ecc1b9/server.jar) - Then run:
 
 ```bash
-java -Xmx1024M -Xms1024M -jar server.jar nogui
+java -Xmx1024M -Xms1024M -jar paper.jar nogui
 ```
 
 ## Usage
